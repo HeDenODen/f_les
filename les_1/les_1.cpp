@@ -7,7 +7,7 @@ int main() {
     
     
     
-    //system("type C:\\Users\\jarli\\Рабочий стол\\Комп курсы\\с++\\les_1\\hi.txt");
+    //system("type );
     
     
     /*system("color E9");
